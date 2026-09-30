@@ -1,0 +1,9 @@
+# Après votre premier run réussi, épinglez les versions exactes avec : pip freeze > requirements.lock.txt
+sentence-transformers
+faiss-cpu
+pypdf
+google-genai
+numpy
+pandas
+matplotlib
+streamlit>=1.40

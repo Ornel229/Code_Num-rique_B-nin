@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+llm_cache/
+logs/
+*.csv
+.env
+.streamlit/secrets.toml
